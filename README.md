@@ -43,7 +43,7 @@ The script outputs the following variables:
 
 ---
 
-📈 Example Visualization
+## 📈 Example Visualization
 
 🚀 Trajectory Visualization
 
@@ -51,7 +51,7 @@ The script outputs the following variables:
 
 ---
 
-🤝 Acknowledgments
+## 🤝 Acknowledgments
 This work was developed as part of a teleoperation performance analysis study. If you find this repository useful, please consider citing or contributing.
 
 ---
