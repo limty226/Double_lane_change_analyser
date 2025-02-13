@@ -56,9 +56,13 @@ The script outputs the following variables:
 The processed .mat files will be saved in the following directory:
 
 📂 `output/`
+
   ├── `participant1_20230522.mat`
+  
   ├── `participant2_20230522.mat`
+  
   ├── `all_vehicle_data.mat`
+  
 Make sure to check this directory after running the experiment.
 
 ---
