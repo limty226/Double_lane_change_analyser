@@ -1,6 +1,6 @@
 # 🚗 Double Lane Change Data Processing in MATLAB
 
-This repository contains a MATLAB script for processing and analyzing **Double Lane Change (DLC) experiment data**.  
+This repository contains a MATLAB(R2019a) script for processing and analyzing **Double Lane Change (DLC) experiment data**.  
 The script extracts **vehicle trajectory, velocity, effort, time, and error metrics** from a Simulink simulation and visualizes the results.
 
 ---
