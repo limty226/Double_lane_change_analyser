@@ -29,12 +29,14 @@ The script extracts **vehicle trajectory, velocity, effort, time, and error metr
 
 ---
 
-📊 Output Data Structure
+## 📊 Output Data Structure
+
 The script outputs the following variables:
 
-Variable	Description
-Time	Elapsed time during the experiment
-Error	RMSE (Root Mean Square Error) of the vehicle's path
-Effort	Cumulative steering effort
-Velocity	Average vehicle speed
-conerxcnt	Number of cone boundary violations
+| Variable   | Description                                          |
+|------------|------------------------------------------------------|
+| `Time`     | Elapsed time during the experiment                  |
+| `Error`    | RMSE (Root Mean Square Error) of the vehicle's path |
+| `Effort`   | Cumulative steering effort                          |
+| `Velocity` | Average vehicle speed                               |
+| `conerxcnt` | Number of cone boundary violations                  |
