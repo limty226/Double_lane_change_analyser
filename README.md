@@ -40,3 +40,8 @@ The script outputs the following variables:
 | `Effort`   | Cumulative steering effort                          |
 | `Velocity` | Average vehicle speed                               |
 | `conerxcnt` | Number of cone boundary violations                  |
+
+📈 Example Visualization
+
+🚀 Trajectory Visualization
+📊 Error Distribution Histogram
