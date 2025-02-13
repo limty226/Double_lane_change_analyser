@@ -28,7 +28,16 @@ The script extracts **vehicle trajectory, velocity, effort, time, and error metr
 - Saves processed experiment results (**Time, Error, Effort, Velocity**) in `.mat` format.
 
 ---
+## 🔹 Simulink Model
+The Simulink model included in this repository simulates teleoperation-based Double Lane Change experiments.
+It models the vehicle dynamics and generates .mat files for further analysis.
 
+To run the Simulink model:
+1️⃣ Open models/double_lane_change.slx in Simulink.
+2️⃣ Set up the simulation parameters.
+3️⃣ Run the model and generate the .mat data for analysis.
+
+---
 ## 📊 Output Data Structure
 
 The script outputs the following variables:
@@ -43,6 +52,16 @@ The script outputs the following variables:
 
 ---
 
+## 📁 Output Data
+The processed .mat files will be saved in the following directory:
+
+📂 `output/`
+  ├── `participant1_20230522.mat`
+  ├── `participant2_20230522.mat`
+  ├── `all_vehicle_data.mat`
+Make sure to check this directory after running the experiment.
+
+---
 ## 📈 Example Visualization
 
 🚀 Trajectory Visualization
