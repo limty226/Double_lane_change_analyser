@@ -28,3 +28,13 @@ The script extracts **vehicle trajectory, velocity, effort, time, and error metr
 - Saves processed experiment results (**Time, Error, Effort, Velocity**) in `.mat` format.
 
 ---
+
+📊 Output Data Structure
+The script outputs the following variables:
+
+Variable	Description
+Time	Elapsed time during the experiment
+Error	RMSE (Root Mean Square Error) of the vehicle's path
+Effort	Cumulative steering effort
+Velocity	Average vehicle speed
+conerxcnt	Number of cone boundary violations
