@@ -41,11 +41,20 @@ The script outputs the following variables:
 | `Velocity` | Average vehicle speed                               |
 | `conerxcnt` | Number of cone boundary violations                  |
 
+---
+
 📈 Example Visualization
 
 🚀 Trajectory Visualization
 
 📊 Error Distribution Histogram
+
+---
+
+🤝 Acknowledgments
+This work was developed as part of a teleoperation performance analysis study. If you find this repository useful, please consider citing or contributing.
+
+---
 
 ## 📜 License
 
