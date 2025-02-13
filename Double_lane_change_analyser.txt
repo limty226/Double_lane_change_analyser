@@ -208,6 +208,3 @@ trial = 1;
     save(filename, 'Time', 'Error', 'Effort', 'Velocity', 'conerxcnt');
 
 
-test = log(Error.center);
-histogram(test,30);
-
