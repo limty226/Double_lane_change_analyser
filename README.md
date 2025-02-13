@@ -56,6 +56,13 @@ This work was developed as part of a teleoperation performance analysis study. I
 
 ---
 
+📬 Contact
+For any questions or contributions, please contact:
+📧 taeyun9949.gmail.com
+🔗 limty226
+
+---
+
 ## 📜 License
 
 Double Lane Change License  
