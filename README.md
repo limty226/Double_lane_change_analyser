@@ -33,8 +33,11 @@ The Simulink model included in this repository simulates teleoperation-based Dou
 It models the vehicle dynamics and generates .mat files for further analysis.
 
 To run the Simulink model:
+
 1️⃣ Open models/double_lane_change.slx in Simulink.
+
 2️⃣ Set up the simulation parameters.
+
 3️⃣ Run the model and generate the .mat data for analysis.
 
 ---
@@ -81,7 +84,9 @@ This work was developed as part of a teleoperation performance analysis study. I
 
 📬 Contact
 For any questions or contributions, please contact:
+
 📧 taeyun9949.gmail.com
+
 🔗 limty226
 
 ---
