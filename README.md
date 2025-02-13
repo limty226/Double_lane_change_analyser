@@ -82,7 +82,7 @@ This work was developed as part of a teleoperation performance analysis study. I
 
 ---
 
-📬 Contact
+## 📬 Contact
 For any questions or contributions, please contact:
 
 📧 taeyun9949.gmail.com
